@@ -1,0 +1,47 @@
+.test {
+  font-size: 20px;
+  display: flex;
+  transform: translateX(10px);
+  color: #ffffff;
+  margin: 0px 0px;
+  opacity: 0.25;
+  background: black;
+}
+
+/* table {
+  width: 100%;
+} */
+
+//table {
+//  width: 100%;
+//}
+
+.ex1 > div,
+.ex {
+  color: #AAA;
+  margin: 10px 10px 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 640px) {
+  .foo {
+    width: 150px;
+  }
+}
+
+.bar {
+  width: 20px;
+}
+
+@media (min-width: 320px) {
+  .bar {
+    width: 200px;
+  }
+}
+
+@media (min-width: 640px) {
+  .bar {
+    width: 300px;
+  }
+}
