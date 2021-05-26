@@ -16,6 +16,7 @@
     "autoprefixer": "^9.8.6",
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.11",
+    "dns-packet": "^5.2.3",
     "filecopy": "^4.1.0",
     "glob": "^7.1.7",
     "mkdirp": "^0.5.1",
